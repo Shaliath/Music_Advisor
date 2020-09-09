@@ -6,8 +6,8 @@ public class Config {
     public static String API_SERVER_PATH = "https://api.spotify.com";
 
     public static String REDIRECT_URI = "http://localhost:8080";
-    public static String CLIENT_ID = "9aa55e5207574d78b60d236e1a30d35d";
-    public static String CLIENT_SECRET = "3dea97be3da94041b6b1de52a07ff227";
+    public static String CLIENT_ID = "your_client_ID";
+    public static String CLIENT_SECRET = "your_client_secret";
 
     public static String ACCESS_TOKEN = "";
     public static String AUTH_CODE = "";
